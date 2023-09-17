@@ -1,2 +1,1 @@
-console.log("Hello CodeSandboxsss");
-
+console.log("Hello CodeSandboxsss", process.env.NODE_ENV);
